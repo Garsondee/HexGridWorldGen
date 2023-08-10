@@ -1,7 +1,7 @@
 {
-  "id": "module",
-  "title": "New Module",
-  "description": "",
+  "id": "HexGridWorldGen-Release",
+  "title": "Hex Grid World Generator",
+  "description": "A module for FoundryVTT that allows you to generate a hex grid world map.",
   "version": "#{VERSION}#",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
@@ -12,9 +12,9 @@
   },
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "Ingram Blakelock",
+      "url": "",
+      "discord": ""
     }
   ],
   "relationships": {
